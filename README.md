@@ -19,7 +19,7 @@ This project automates browser interactions using Playwright with C#. It integra
 dotnet test
 ```
 
-##On BrowserStack:
+On BrowserStack:
 ```bash
 dotnet test --config single.conf.json
 ```
