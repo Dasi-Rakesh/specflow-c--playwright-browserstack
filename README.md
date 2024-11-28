@@ -24,7 +24,7 @@ On BrowserStack:
 dotnet test --config single.conf.json
 ```
 
-##Key Features
+Key Features
 Automates login and other workflows.
 Captures screenshots for failed tests.
 Marks BrowserStack session status based on test results.
